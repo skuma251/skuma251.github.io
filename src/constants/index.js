@@ -86,10 +86,10 @@ import {
       name: "Node JS",
       icon: nodejs,
     },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    },
+    // {
+    //   name: "Tailwind CSS",
+    //   icon: tailwind,
+    // },
     {
       name: "AWS",
       icon: aws,
@@ -110,10 +110,10 @@ import {
       name: "python",
       icon: python,
     },
-    {
-      name: "jenkins",
-      icon: jenkins,
-    },
+    // {
+    //   name: "jenkins",
+    //   icon: jenkins,
+    // },
     {
       name: "java",
       icon: java,
